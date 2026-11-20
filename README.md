@@ -1,4 +1,4 @@
-# `Dépôts Vitrine 'Espace Bank': Application Bancaire Full-Stack Moderne & Sécurisée`
+# `Espace Bank: Application Bancaire Full-Stack Moderne & Sécurisée`
 
 ```
 Architecture 3-tiers découpée en deux modules principaux (Client/Serveur) :
